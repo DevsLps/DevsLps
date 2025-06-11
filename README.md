@@ -3,7 +3,7 @@
 
  💻 Consigo desenvolver com **HTML, CSS, JS, Angular, Bootstrap, Sass
 
-👨🏻‍💻  Hoje trabalho como 
+👨🏻‍💻  Hoje trabalho como freelancer
 
 
  </div>
