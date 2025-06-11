@@ -1,10 +1,17 @@
-## Olá eu sou o DevLps👋
-🧑🏻‍🎓 Graduando em Engenharia de Software 
+## Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px" heigth="28px"/>  eu sou o DevLps
+🧑🏻‍🎓 Faço faculdade de **ES - Engenharia de Software** 📚  5/8
 
-👨🏻‍💻  Hoje trabalho com Front-end 
+ 💻 Consigo desenvolver com **HTML, CSS, JS, Angular, Bootstrap, Sass
+
+👨🏻‍💻  Hoje trabalho como 
 
 
- ![DevLps](https://github-readme-stats.vercel.app/api?username=DevLps&theme=dark&show_icons=true)
+ </div>
+
+ <a href="https://github.com/Dhebbora">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevLps&show_icons=truea&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLps&layout=compact&theme=tokyonight"/>
+</div>
   
   
 <div style="display: inline_block"><br>
