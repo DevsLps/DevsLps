@@ -8,7 +8,7 @@
 
  </div>
 
- <a href="https://github.com/DevLps">
+ <a href="https://github.com/DevsLps">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevLps&show_icons=truea&layout=compact&theme=tokyonight"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLps&layout=compact&theme=tokyonight"/>
 </div>
